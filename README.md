@@ -1,1 +1,1 @@
-# lpk
+# LPK - Brawl Stars
